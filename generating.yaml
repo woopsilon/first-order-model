@@ -1,0 +1,18 @@
+result_suffix:
+source_dirs:
+use_best_frame: true
+use_first_frame: false
+source_hints:
+  - path: C:\Users\brywa\Downloads\motion-results\sources\src3.jpg
+combined: false
+add_relative: false
+add_untransformed: false
+add_relative_and_adapted: true
+driving_videos: 
+- C:\Users\brywa\Downloads\OneDrive-2022-09-24\cropped\Do Women Secretly WANT Patriarchy.mp4
+intermediates: intermediates
+output: C:\Users\brywa\Downloads\motion-results
+preview: false
+preview_length_seconds: 20
+find_best_frame_seconds: 600
+debugging: false

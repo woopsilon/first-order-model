@@ -1,0 +1,9 @@
+classifications:
+- name: "Excellent"
+  threshold: 0.05
+- name: "Good"
+  threshold: 0.06
+- name: "Pretty Good"
+  threshold: 0.1
+- name: "Okay"
+  threshold: 0.15
